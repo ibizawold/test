@@ -51,7 +51,7 @@
 			},
 			{
 				"name": "config",
-				"desc": "Url encoded path to file which control menu items, if not provided, use https://raw.githubusercontent.com/ibizawold/test/config.json"
+				"desc": "Url encoded path to file which control menu items, if not provided, use https://raw.githubusercontent.com/ibizawold/master/test/config.json"
 			}
 		]
 	}
