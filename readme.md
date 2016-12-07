@@ -8,7 +8,7 @@ Redtube.com is an Adult over 18's Internet service that provides video hosting s
 ------------|-------------
  language   | interface language can be one of the supported interface language (see below)
  regionCode | content will be relevant to the selected country. The parameter value is an ISO 3166-1 alpha-2 country code.
- config     | url encoded path to file which control menu items, if not provided, use https://raw.githubusercontent.com/ibizawold/test/config.json
+ config     | url encoded path to file which control menu items, if not provided, use https://raw.githubusercontent.com/ibizawold/test/master/config.json
 
 
 #### Supported interface languages
