@@ -1,4 +1,4 @@
-# retube
+# redtube
 
 Redtube.com is an Adult over 18's Internet service that provides video hosting services. Users can add, view, comment and share these or other videos with their friends. The site includes a professionally shot movies and clips as well as amateur videos
 
